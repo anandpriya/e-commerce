@@ -95,6 +95,8 @@ The following illustration visualizes the data model:
 
 ![alt text](https://github.com/anandpriya/e-commerce/blob/main/datamodel.png)
 
+Same data model will be in Spanish as well.
+
 Enumeration List:
 
 Based on new "add product" design, create enum list for each category, like setting possible values for each attribute of product. Examples:
