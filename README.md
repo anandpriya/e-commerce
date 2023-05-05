@@ -92,7 +92,7 @@ string, translation_id, and translated value.
 
 ## Tech Stack
 
-Tech Stack: Node.js, Redis, MySql, RabbitMQ, DataDog(for monitoring)
+Tech Stack: Node.js, Java, spring boot, Redis, Mongo DB, Kafka, Kafka Connect, docker, kubernetes, application load balancer, third party tool to translate
 
 For Localization of data: Used third party paid System
 We have set an SLA of 6 hours with third party system for translation.
