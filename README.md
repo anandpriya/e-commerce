@@ -86,14 +86,40 @@ Sample Message to translation tool:
  
  ### Flow Diagram
  
+ 
+
+ 
 ### Database design
 
 The following illustration visualizes the data model:
 
 ![alt text](https://github.com/anandpriya/e-commerce/blob/main/datamodel.png)
 
+Enumeration List:
 
-string, translation_id, and translated value.
+Based on new "add product" design, create enum list for each category, like setting possible values for each attribute of product. Examples:
+
+Model	
+
+	A
+ 
+	B
+ 
+	C
+	
+Color	
+
+	Red
+ 
+	Blue
+ 
+	Others
+ 
+ 
+
+
+
+
 
 
 ## Tech Stack
