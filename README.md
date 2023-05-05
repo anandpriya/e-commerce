@@ -12,7 +12,19 @@ Kindly provide solution to add products using new design where user will be choo
  
  ## Functional requirements
  
+ Add product using new design in English and store in English DB
+ 
+ Sync and batch translation in to Spanish of existing ENGLISH product database for Mexico clients and save it in spanish product database
+ 
+ Get product information in spanish as well as in English
+ 
  ## Non Functional Requirements
+ 
+Service should work with low latency as otherwise, customer experience will suffer.
+ 
+Service should scale easily as we are expecting a good number of hits with regional languages in the future.
+
+Localization/Translation should not alter the exact meaning.
  
  Availability: (Availability % 99.999% (5 nines), Downtime per Year: 5.26 minutes, Downtime per Month: 25.9 seconds, Downtime per Week: 6.05 seconds)
  
@@ -35,7 +47,8 @@ Maintainability
  ## APIs
  
  /add-product/id
- /get-product/id
+ /en/get-product/id  >> english
+  /sp/get-product/id   >> spanish
  
 
 ## High Level Design
@@ -44,9 +57,35 @@ Maintainability
 
  
 ### Solution Diagram
+
+
+Sample Message to translation tool:
+
+{
+
+“string”: “high definition”,
+
+"language id": 5  # for spanish
+
+“translation_flag” : 1
+
+"security token" : "XXGFFHGGJHGKJHk"
+
+}
  
  
  
  ### Flow Diagram
  
 ### Database design
+
+
+string, translation_id, and translated value.
+
+
+## Tech Stack
+
+Tech Stack: Node.js, Redis, MySql, RabbitMQ, DataDog(for monitoring)
+
+For Localization of data: Used third party paid System
+We have set an SLA of 6 hours with third party system for translation.
