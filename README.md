@@ -21,6 +21,9 @@ OBJECTIVE: Implement Scalable, high performing, easy to maintain product managem
 Key Results:
 
 
+●     Inc
+
+
 Objective: Increase online sales by 20%
 
 Key results:
@@ -47,9 +50,6 @@ Key results:
 ●    Reduce time to select the product to buy as information shared is more accurate, structured and relevant
 
 Objective: Minimize codebase framework dependencies
-
-
-Key Result: Decrease codebase frameworks from 5 to 2
  
  
  ## Functional requirements
