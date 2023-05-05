@@ -8,21 +8,6 @@ Kindly provide solution to add products using new design where user will be choo
 
 
  ## Objectives and Key Results(OKR):
- 
-OBJECTIVE: Be Proactive with Supplier Success
-
-Key Results:
-
-Implement new "add product" platform to provide more acurate and structured input form based on customer asks and latest trends
-
-
-OBJECTIVE: Implement Scalable, high performing, easy to maintain product management system
-
-Key Results:
-
-
-●     Inc
-
 
 Objective: Increase online sales by 20%
 
@@ -30,16 +15,18 @@ Key results:
 
 ●     Increase traffic in Mexico e-commerce portal by 25% as buyers/ visitors prefer local language content
 
-●     Increase number of orders value by 5%
+●     Increase number of orders by 10%
 
 
-Objective: Improve Net promoter scores (NPS) for suppliers
+Objective: Improve Net promoter scores (NPS) for suppliers, Be Proactive with Supplier Success
 
 Key results:
 
 ●     Increase in number of suppliers by 10%
 
 ●     Increase in number of prodcuts added by 10%
+
+●     Better ratings from suppliers stating more satisfaction and ease of work after using new "Add product" feature
 
 
 
@@ -49,14 +36,27 @@ Key results:
 
 ●    Reduce time to select the product to buy as information shared is more accurate, structured and relevant
 
-Objective: Minimize codebase framework dependencies
+●    More average time spent by visitors as they enjoy browsing in local language
+
+
+OBJECTIVE: Implement Scalable, high performing, easy to maintain product management system
+
+Key Results:
+
+
+●     Reduce complexities in business logic implementation and DB queries
+
+●     Make filering of product information easier
+
+●     Reduce number of validations and possibility of erros in input data
+
  
  
  ## Functional requirements
  
  The functional requirements of our systems are:
  
- Add product using new design in English and store in English DB
+Implement new "add product" platform to provide more acurate and structured input form based on customer asks and latest trends. This will be in English and stored in English DB.
  
  Sync and batch translation in to Spanish of existing ENGLISH product database for Mexico clients and save it in spanish product database
  
@@ -129,7 +129,7 @@ Sample Message to translation tool:
  ### Flow Diagram
  
  
-
+<To be done>
  
 ### Database design
 
