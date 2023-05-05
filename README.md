@@ -9,6 +9,48 @@ Kindly provide solution to add products using new design where user will be choo
 
  ## Objectives and Key Results(OKR):
  
+OBJECTIVE: Be Proactive with Supplier Success
+
+Key Results:
+
+Implement new "add product" platform to provide more acurate and structured input form based on customer asks and latest trends
+
+
+OBJECTIVE: Implement Scalable, high performing, easy to maintain product management system
+
+Key Results:
+
+
+Objective: Increase online sales by 20%
+
+Key results:
+
+●     Increase traffic in Mexico e-commerce portal by 25% as buyers/ visitors prefer local language content
+
+●     Increase number of orders value by 5%
+
+
+Objective: Improve Net promoter scores (NPS) for suppliers
+
+Key results:
+
+●     Increase in number of suppliers by 10%
+
+●     Increase in number of prodcuts added by 10%
+
+
+
+Objective: Improve Customer effort scores(CES) for buyers
+
+Key results:
+
+●    Reduce time to select the product to buy as information shared is more accurate, structured and relevant
+
+Objective: Minimize codebase framework dependencies
+
+
+Key Result: Decrease codebase frameworks from 5 to 2
+ 
  
  ## Functional requirements
  
