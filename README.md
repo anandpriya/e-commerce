@@ -88,6 +88,10 @@ Sample Message to translation tool:
  
 ### Database design
 
+The following illustration visualizes the data model:
+
+![alt text](https://github.com/anandpriya/e-commerce/blob/main/datamodel.png)
+
 
 string, translation_id, and translated value.
 
