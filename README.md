@@ -51,8 +51,10 @@ Maintainability
  ## APIs
  
  /add-product/id
+ 
  /en/get-product/id  >> english
-  /sp/get-product/id   >> spanish
+ 
+ /sp/get-product/id   >> spanish
  
 
 ## High Level Design
