@@ -19,11 +19,17 @@ Kindly provide solution to add products using new design where user will be choo
  Reliability
  
  Scalability
+ 
  Performance
+ 
  Consistency
- Maintainability
+
+Maintainability
+ 
  Fault tolerence
+ 
  Disaster Recovery
+ 
  Durability
  
  ## APIs
