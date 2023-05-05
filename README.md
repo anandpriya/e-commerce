@@ -18,6 +18,9 @@ Key results:
 ●     Increase number of orders by 10%
 
 
+
+
+
 Objective: Improve Net promoter scores (NPS) for suppliers, Be Proactive with Supplier Success
 
 Key results:
@@ -30,6 +33,9 @@ Key results:
 
 
 
+
+
+
 Objective: Improve Customer effort scores(CES) for buyers
 
 Key results:
@@ -37,6 +43,8 @@ Key results:
 ●    Reduce time to select the product to buy as information shared is more accurate, structured and relevant
 
 ●    More average time spent by visitors as they enjoy browsing in local language
+
+
 
 
 OBJECTIVE: Implement Scalable, high performing, easy to maintain product management system
