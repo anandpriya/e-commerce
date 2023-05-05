@@ -63,6 +63,9 @@ Maintainability
 ### Solution Diagram
 
 
+
+![alt text](https://github.com/anandpriya/e-commerce/blob/main/HLD.png)
+
 Sample Message to translation tool:
 
 {
