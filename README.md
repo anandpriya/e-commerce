@@ -14,12 +14,29 @@ Kindly provide solution to add products using new design where user will be choo
  
  ## Non Functional Requirements
  
+ Availability: (Availability % 99.999% (5 nines), Downtime per Year: 5.26 minutes, Downtime per Month: 25.9 seconds, Downtime per Week: 6.05 seconds)
+ Reliability
+ Scalability
+ Performance
+ Consistency
+ Maintainability
+ Fault tolerence
+ Disaster Recovery
+ Durability
+ 
  ## APIs
  
+ /add-product/id
+ /get-product/id
  
- ## High Level Design
+
+## High Level Design
+
+
+
  
 ### Solution Diagram
+ 
  
  
  ### Flow Diagram
