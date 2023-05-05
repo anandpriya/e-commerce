@@ -12,6 +12,8 @@ Kindly provide solution to add products using new design where user will be choo
  
  ## Functional requirements
  
+ The functional requirements of our systems are:
+ 
  Add product using new design in English and store in English DB
  
  Sync and batch translation in to Spanish of existing ENGLISH product database for Mexico clients and save it in spanish product database
@@ -25,6 +27,8 @@ Service should work with low latency as otherwise, customer experience will suff
 Service should scale easily as we are expecting a good number of hits with regional languages in the future.
 
 Localization/Translation should not alter the exact meaning.
+
+The non-functional requirements of our systems are:
  
  Availability: (Availability % 99.999% (5 nines), Downtime per Year: 5.26 minutes, Downtime per Month: 25.9 seconds, Downtime per Week: 6.05 seconds)
  
